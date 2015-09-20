@@ -1,0 +1,14 @@
+*.orig
+*~
+*.orig
+*.swp
+*.swo
+*.swn
+*.swm
+*.project
+*.classpath
+*.log
+*.iml
+.idea/*
+.settings/*
+*.pyc
